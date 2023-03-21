@@ -1,6 +1,6 @@
 # PM2.5 Monitoring System
 <h2>Description</h2>
-This project is an air quality monitoring system using multiple PM sensors including Sensirion SPS30, Honeywell HPMA115S0, Plantower PMS7003, and Nova PM sensor SDS011.
+This project is an air quality monitoring system using multiple PM sensors including Sensirion SPS30, Honeywell HPMA115S0, Plantower PMS7003, and Nova PM sensor SDS011.<br><b>2020</b>
 <h2>Prerequisites</h2>
 Before using this program, make sure you have the following libraries installed:<br><br>
 
@@ -18,4 +18,5 @@ The code reads data from each sensor and outputs it to the serial monitor. The m
 <h2>Usage</h2>
 This code can be used as a starting point for building an air quality monitoring system using different PM sensors. You can modify the code to add or remove sensors, change the sampling frequency, and output format.
 <h2>License</h2>
-This program is licensed under the MIT License. See the LICENSE file for details.
+
+This program is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
