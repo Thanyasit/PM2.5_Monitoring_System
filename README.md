@@ -17,6 +17,13 @@ Before using this program, make sure you have the following libraries installed:
 The code reads data from each sensor and outputs it to the serial monitor. The measurements include PM2.5 and PM10 concentration in µg/m³ from each sensor. The data is printed in CSV format and it includes the timestamp of each measurement.
 <h2>Usage</h2>
 This code can be used as a starting point for building an air quality monitoring system using different PM sensors. You can modify the code to add or remove sensors, change the sampling frequency, and output format.
+
+## Example
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/77733903/226976608-c96fc652-7d15-4ccb-a988-d948dd44c778.JPG" width="500">
+</p>
+
 <h2>License</h2>
 
 This program is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
